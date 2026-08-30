@@ -1,17 +1,25 @@
 {
   "schema": 1,
   "machine": "ab2bd35773a2413caba23d31ffc03eb0",
-  "exported_ts": 1788098254.8236747,
+  "exported_ts": 1788103332.3550212,
   "types": {
     "settings": {
       "items": {
+        "chart_font_size": {
+          "v": 11,
+          "ts": 1788092503.8100176
+        },
+        "draw_locks": {
+          "v": true,
+          "ts": 1788092503.8100176
+        },
+        "default_period": {
+          "v": "近3年",
+          "ts": 1788092503.8100176
+        },
         "text_font_size": {
           "v": 12,
           "ts": 1788098247.5130863
-        },
-        "font_family": {
-          "v": "Noto Sans CJK SC",
-          "ts": 1788092503.8100176
         },
         "left_panel_visible": {
           "v": true,
@@ -21,12 +29,85 @@
           "v": 560,
           "ts": 1788092503.8100176
         },
-        "panel_widths": {
-          "v": {
-            "watch": 640,
-            "right": 640
-          },
-          "ts": 1788098247.5130863
+        "default_scale": {
+          "v": "日线",
+          "ts": 1788092503.8100176
+        },
+        "mkt_default_bars": {
+          "v": 120,
+          "ts": 1788092503.8100176
+        },
+        "pnf_box_mode": {
+          "v": "pct",
+          "ts": 1788092503.8100176
+        },
+        "sync_debounce": {
+          "v": 60,
+          "ts": 1788092503.8100176
+        },
+        "font_size": {
+          "v": 10,
+          "ts": 1788092503.8100176
+        },
+        "default_load": {
+          "v": "",
+          "ts": 1788092503.8100176
+        },
+        "watch_move_notify": {
+          "v": true,
+          "ts": 1788092503.8100176
+        },
+        "dock_state": {
+          "v": "AAAA/wAAAAH9AAAAAQAAAAEAAAEZAAADkvwCAAAAAfwAAABQAAADkgAAASUBAAAb+gAAAAABAAAAAvsAAAASAGQAbwBjAGsAVwBhAHQAYwBoAQAAAAD/////AAAAdwD////7AAAAEgBkAG8AYwBrAFIAaQBnAGgAdAEAAAVsAAACFAAAAP4A////AAAGYQAAA5IAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=",
+          "ts": 1788098410.4385939
+        },
+        "draw_waves": {
+          "v": true,
+          "ts": 1788092503.8100176
+        },
+        "pivot_sensitivity": {
+          "v": "normal",
+          "ts": 1788092503.8100176
+        },
+        "watch_move_refresh": {
+          "v": true,
+          "ts": 1788092503.8100176
+        },
+        "ind_default_bars": {
+          "v": 250,
+          "ts": 1788092503.8100176
+        },
+        "theme": {
+          "v": "dark",
+          "ts": 1788092503.8100176
+        },
+        "auto_scan": {
+          "v": false,
+          "ts": 1788092503.8100176
+        },
+        "auto_show_calib": {
+          "v": false,
+          "ts": 1788092503.8100176
+        },
+        "auto_refresh": {
+          "v": false,
+          "ts": 1788092503.8100176
+        },
+        "watch_move_threshold": {
+          "v": 2.0,
+          "ts": 1788092503.8100176
+        },
+        "auto_show_entries": {
+          "v": false,
+          "ts": 1788092503.8100176
+        },
+        "auto_sync": {
+          "v": false,
+          "ts": 1788092503.8100176
+        },
+        "pnf_atr_factor": {
+          "v": 0.5,
+          "ts": 1788092503.8100176
         },
         "right_panel_visible": {
           "v": true,
@@ -40,229 +121,148 @@
           "v": 5,
           "ts": 1788098247.5130863
         },
-        "dock_state": {
-          "v": "AAAA/wAAAAH9AAAAAQAAAAEAAAEZAAADHvwCAAAAAfwAAABQAAADHgAAASUBAAAb+gAAAAABAAAAAvsAAAASAGQAbwBjAGsAVwBhAHQAYwBoAQAAAAD/////AAAAdwD////7AAAAEgBkAG8AYwBrAFIAaQBnAGgAdAEAAAVsAAACFAAAAP4A////AAAEqQAAAx4AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=",
-          "ts": 1788097784.7097802
-        },
-        "draw_locks": {
-          "v": true,
-          "ts": 1788092503.8100176
-        },
-        "theme": {
-          "v": "dark",
-          "ts": 1788092503.8100176
-        },
-        "pivot_sensitivity": {
-          "v": "normal",
-          "ts": 1788092503.8100176
-        },
-        "watch_move_threshold": {
-          "v": 2.0,
-          "ts": 1788092503.8100176
-        },
-        "font_size": {
-          "v": 10,
-          "ts": 1788092503.8100176
-        },
-        "watch_move_notify": {
-          "v": true,
-          "ts": 1788092503.8100176
-        },
-        "mkt_default_bars": {
-          "v": 120,
-          "ts": 1788092503.8100176
-        },
-        "auto_show_calib": {
-          "v": false,
-          "ts": 1788092503.8100176
-        },
-        "ind_default_bars": {
-          "v": 250,
-          "ts": 1788092503.8100176
-        },
-        "pnf_atr_factor": {
-          "v": 0.5,
-          "ts": 1788092503.8100176
-        },
-        "kline_layers": {
-          "v": {},
-          "ts": 1788092503.8100176
-        },
-        "watch_move_refresh": {
-          "v": true,
+        "scan_interval": {
+          "v": 3600,
           "ts": 1788092503.8100176
         },
         "watch_font_size": {
           "v": 10,
           "ts": 1788092503.8100176
         },
-        "default_period": {
-          "v": "近3年",
-          "ts": 1788092503.8100176
-        },
-        "default_scale": {
-          "v": "日线",
-          "ts": 1788092503.8100176
-        },
-        "auto_scan": {
-          "v": false,
-          "ts": 1788092503.8100176
-        },
-        "auto_refresh": {
-          "v": false,
-          "ts": 1788092503.8100176
-        },
-        "draw_waves": {
-          "v": true,
-          "ts": 1788092503.8100176
-        },
-        "scan_interval": {
-          "v": 3600,
-          "ts": 1788092503.8100176
-        },
-        "chart_font_size": {
-          "v": 11,
-          "ts": 1788092503.8100176
-        },
-        "auto_show_entries": {
-          "v": false,
-          "ts": 1788092503.8100176
-        },
         "auto_show_screener": {
           "v": false,
-          "ts": 1788092503.8100176
-        },
-        "sync_debounce": {
-          "v": 60,
           "ts": 1788092503.8100176
         },
         "watch_width": {
           "v": 188,
           "ts": 1788098247.5130863
         },
-        "auto_sync": {
-          "v": false,
+        "kline_layers": {
+          "v": {},
           "ts": 1788092503.8100176
         },
-        "default_load": {
-          "v": "",
+        "font_family": {
+          "v": "Noto Sans CJK SC",
           "ts": 1788092503.8100176
+        },
+        "panel_widths": {
+          "v": {
+            "watch": 640,
+            "right": 640
+          },
+          "ts": 1788098247.5130863
         },
         "confirm_enabled": {
           "v": true,
-          "ts": 1788092503.8100176
-        },
-        "pnf_box_mode": {
-          "v": "pct",
           "ts": 1788092503.8100176
         }
       }
     },
     "watchlist": {
       "items": {
-        "sz002594": {
-          "v": "sz002594",
-          "ts": 1788097784.7559617
-        },
-        "sh600036": {
-          "v": "sh600036",
-          "ts": 1788097784.7559617
-        },
-        "sh600900": {
-          "v": null,
-          "ts": 1788098254.788013
-        },
-        "sh600519": {
-          "v": "sh600519",
-          "ts": 1788092503.811876
-        },
-        "sz300059": {
-          "v": "sz300059",
-          "ts": 1788097784.7559617
-        },
-        "sz000333": {
-          "v": null,
-          "ts": 1788098254.788013
-        },
-        "sz002714": {
-          "v": "sz002714",
-          "ts": 1788097784.7559617
-        },
-        "sz002415": {
-          "v": "sz002415",
-          "ts": 1788097784.7559617
-        },
-        "sz301166": {
-          "v": "sz301166",
-          "ts": 1788097784.7559617
-        },
-        "sh601318": {
-          "v": "sh601318",
-          "ts": 1788097784.7559617
-        },
-        "sz000001": {
-          "v": "sz000001",
-          "ts": 1788092503.811876
-        },
-        "sh601012": {
-          "v": "sh601012",
-          "ts": 1788097784.7559617
-        },
-        "sz301098": {
-          "v": "sz301098",
-          "ts": 1788097784.7559617
-        },
-        "sh600104": {
-          "v": "sh600104",
+        "sz300750": {
+          "v": "sz300750",
           "ts": 1788092503.811876
         },
         "sh600276": {
           "v": "sh600276",
           "ts": 1788097784.7559617
         },
-        "sh601899": {
-          "v": "sh601899",
+        "sz301098": {
+          "v": "sz301098",
+          "ts": 1788097784.7559617
+        },
+        "sz300059": {
+          "v": "sz300059",
+          "ts": 1788097784.7559617
+        },
+        "sh600036": {
+          "v": "sh600036",
           "ts": 1788097784.7559617
         },
         "sh600893": {
           "v": "sh600893",
           "ts": 1788097784.7559617
         },
-        "sz002956": {
-          "v": "sz002956",
+        "sh600900": {
+          "v": null,
+          "ts": 1788103332.3335106
+        },
+        "sz002415": {
+          "v": "sz002415",
           "ts": 1788097784.7559617
         },
         "sz000858": {
           "v": "sz000858",
           "ts": 1788097784.7559617
         },
-        "sz002230": {
-          "v": "sz002230",
-          "ts": 1788097784.7559617
-        },
-        "sh000001": {
-          "v": "sh000001",
-          "ts": 1788061898.1024628
+        "sh688981": {
+          "v": "sh688981",
+          "ts": 1788092503.811876
         },
         "sh688111": {
           "v": "sh688111",
           "ts": 1788097784.7559617
         },
-        "sh688981": {
-          "v": "sh688981",
+        "sh600104": {
+          "v": "sh600104",
           "ts": 1788092503.811876
+        },
+        "sz002594": {
+          "v": "sz002594",
+          "ts": 1788097784.7559617
+        },
+        "sh601899": {
+          "v": "sh601899",
+          "ts": 1788097784.7559617
         },
         "sz300760": {
           "v": "sz300760",
+          "ts": 1788097784.7559617
+        },
+        "sz002230": {
+          "v": "sz002230",
+          "ts": 1788097784.7559617
+        },
+        "sz000333": {
+          "v": null,
+          "ts": 1788103332.3335106
+        },
+        "sh601012": {
+          "v": "sh601012",
           "ts": 1788097784.7559617
         },
         "sh600487": {
           "v": "sh600487",
           "ts": 1788061898.1024628
         },
-        "sz300750": {
-          "v": "sz300750",
+        "sh600519": {
+          "v": "sh600519",
           "ts": 1788092503.811876
+        },
+        "sz301166": {
+          "v": "sz301166",
+          "ts": 1788097784.7559617
+        },
+        "sz002956": {
+          "v": "sz002956",
+          "ts": 1788097784.7559617
+        },
+        "sz002714": {
+          "v": "sz002714",
+          "ts": 1788097784.7559617
+        },
+        "sz000001": {
+          "v": "sz000001",
+          "ts": 1788092503.811876
+        },
+        "sh601318": {
+          "v": "sh601318",
+          "ts": 1788097784.7559617
+        },
+        "sh000001": {
+          "v": "sh000001",
+          "ts": 1788061898.1024628
         }
       }
     },
