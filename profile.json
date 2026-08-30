@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "machine": "ab2bd35773a2413caba23d31ffc03eb0",
-  "exported_ts": 1788103332.3550212,
+  "exported_ts": 1788103361.8425088,
   "types": {
     "settings": {
       "items": {
@@ -58,8 +58,8 @@
           "ts": 1788092503.8100176
         },
         "dock_state": {
-          "v": "AAAA/wAAAAH9AAAAAQAAAAEAAAEZAAADkvwCAAAAAfwAAABQAAADkgAAASUBAAAb+gAAAAABAAAAAvsAAAASAGQAbwBjAGsAVwBhAHQAYwBoAQAAAAD/////AAAAdwD////7AAAAEgBkAG8AYwBrAFIAaQBnAGgAdAEAAAVsAAACFAAAAP4A////AAAGYQAAA5IAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=",
-          "ts": 1788098410.4385939
+          "v": "AAAA/wAAAAH9AAAAAQAAAAEAAAGqAAADkvwCAAAAAfwAAABQAAADkgAAASUBAAAb+gAAAAEBAAAAAvsAAAASAGQAbwBjAGsAVwBhAHQAYwBoAQAAAAD/////AAAAdwD////7AAAAEgBkAG8AYwBrAFIAaQBnAGgAdAEAAAVsAAACFAAAAP4A////AAAF0AAAA5IAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=",
+          "ts": 1788103361.7769597
         },
         "draw_waves": {
           "v": true,
@@ -186,7 +186,7 @@
         },
         "sh600900": {
           "v": null,
-          "ts": 1788103332.3335106
+          "ts": 1788103361.8079863
         },
         "sz002415": {
           "v": "sz002415",
@@ -226,7 +226,7 @@
         },
         "sz000333": {
           "v": null,
-          "ts": 1788103332.3335106
+          "ts": 1788103361.8079863
         },
         "sh601012": {
           "v": "sh601012",
