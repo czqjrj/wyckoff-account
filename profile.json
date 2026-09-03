@@ -1,101 +1,35 @@
 {
   "schema": 1,
   "machine": "869eb0d30144401391f9beda39374bb2",
-  "exported_ts": 1788397350.630754,
+  "exported_ts": 1788397522.197377,
   "types": {
     "settings": {
       "items": {
-        "text_font_size": {
-          "v": 11,
-          "ts": 0.0
-        },
-        "auto_scan": {
-          "v": false,
-          "ts": 0.0
-        },
-        "default_load": {
-          "v": "600104",
-          "ts": 0.0
-        },
-        "font_size": {
-          "v": 10,
+        "default_period": {
+          "v": "近3年",
           "ts": 0.0
         },
         "watch_font_size": {
           "v": 12,
           "ts": 1788397350.630754
         },
-        "sync_debounce": {
-          "v": 60,
-          "ts": 1788397350.630754
-        },
-        "pivot_sensitivity": {
-          "v": "normal",
-          "ts": 0.0
-        },
-        "scan_interval": {
-          "v": 3600,
-          "ts": 0.0
-        },
-        "auto_show_screener": {
-          "v": false,
-          "ts": 1788397350.630754
-        },
-        "start_maximized": {
-          "v": true,
-          "ts": 0.0
-        },
-        "panel_widths": {
-          "v": {
-            "watch": 247
-          },
-          "ts": 1788397350.630754
-        },
-        "watch_move_refresh": {
+        "watch_move_notify": {
           "v": true,
           "ts": 1788397350.630754
-        },
-        "draw_waves": {
-          "v": true,
-          "ts": 0.0
         },
         "watch_width": {
           "v": 190,
           "ts": 0.0
         },
-        "theme": {
-          "v": "dark",
+        "ind_default_bars": {
+          "v": 250,
           "ts": 1788397350.630754
         },
-        "draw_locks": {
+        "left_panel_visible": {
           "v": true,
-          "ts": 0.0
-        },
-        "font_family": {
-          "v": "Noto Sans CJK SC",
-          "ts": 0.0
-        },
-        "right_width": {
-          "v": 560,
-          "ts": 0.0
-        },
-        "pnf_box_mode": {
-          "v": "pct",
-          "ts": 0.0
-        },
-        "pnf_atr_factor": {
-          "v": 0.5,
-          "ts": 0.0
-        },
-        "watch_move_threshold": {
-          "v": 2.0,
           "ts": 1788397350.630754
         },
-        "chart_font_size": {
-          "v": 11,
-          "ts": 0.0
-        },
-        "watch_move_notify": {
+        "watch_move_refresh": {
           "v": true,
           "ts": 1788397350.630754
         },
@@ -103,23 +37,23 @@
           "v": true,
           "ts": 1788397350.630754
         },
-        "refresh_interval": {
-          "v": 30,
+        "default_load": {
+          "v": "600104",
           "ts": 0.0
         },
-        "startup_no_analysis": {
+        "auto_sync": {
+          "v": false,
+          "ts": 1788397350.630754
+        },
+        "draw_locks": {
           "v": true,
-          "ts": 1788397350.630754
-        },
-        "kline_layers": {
-          "v": {},
-          "ts": 1788397350.630754
-        },
-        "default_period": {
-          "v": "近3年",
           "ts": 0.0
         },
-        "confirm_enabled": {
+        "mkt_default_bars": {
+          "v": 120,
+          "ts": 1788397350.630754
+        },
+        "start_maximized": {
           "v": true,
           "ts": 0.0
         },
@@ -127,36 +61,102 @@
           "v": false,
           "ts": 0.0
         },
-        "mkt_default_bars": {
-          "v": 120,
-          "ts": 1788397350.630754
+        "scan_interval": {
+          "v": 3600,
+          "ts": 0.0
         },
-        "ind_default_bars": {
-          "v": 250,
-          "ts": 1788397350.630754
+        "pnf_box_mode": {
+          "v": "pct",
+          "ts": 0.0
         },
-        "dock_state": {
-          "v": "AAAA/wAAAAH9AAAAAQAAAAEAAAD+AAADHvwCAAAAAfwAAABQAAADHgAAAScBAAAb+gAAAAABAAAAAvsAAAASAGQAbwBjAGsAVwBhAHQAYwBoAQAAAAD/////AAAAdQD////7AAAAEgBkAG8AYwBrAFIAaQBnAGgAdAEAAAXWAAABqgAAAP4A////AAAExAAAAx4AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=",
+        "font_size": {
+          "v": 10,
+          "ts": 0.0
+        },
+        "draw_waves": {
+          "v": true,
+          "ts": 0.0
+        },
+        "right_width": {
+          "v": 560,
+          "ts": 0.0
+        },
+        "startup_no_analysis": {
+          "v": true,
           "ts": 1788397350.630754
         },
         "auto_show_entries": {
           "v": false,
           "ts": 1788397350.630754
         },
-        "auto_sync": {
+        "font_family": {
+          "v": "Noto Sans CJK SC",
+          "ts": 0.0
+        },
+        "auto_show_screener": {
           "v": false,
           "ts": 1788397350.630754
+        },
+        "auto_scan": {
+          "v": false,
+          "ts": 0.0
+        },
+        "confirm_enabled": {
+          "v": true,
+          "ts": 0.0
         },
         "default_scale": {
           "v": "日线",
           "ts": 0.0
         },
-        "left_panel_visible": {
-          "v": true,
+        "refresh_interval": {
+          "v": 30,
+          "ts": 0.0
+        },
+        "sync_debounce": {
+          "v": 60,
           "ts": 1788397350.630754
+        },
+        "panel_widths": {
+          "v": {
+            "watch": 247
+          },
+          "ts": 1788397350.630754
+        },
+        "dock_state": {
+          "v": "AAAA/wAAAAH9AAAAAQAAAAEAAAD+AAADHvwCAAAAAfwAAABQAAADHgAAAScBAAAb+gAAAAABAAAAAvsAAAASAGQAbwBjAGsAVwBhAHQAYwBoAQAAAAD/////AAAAdQD////7AAAAEgBkAG8AYwBrAFIAaQBnAGgAdAEAAAXWAAABqgAAAP4A////AAAExAAAAx4AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=",
+          "ts": 1788397350.630754
+        },
+        "pnf_atr_factor": {
+          "v": 0.5,
+          "ts": 0.0
         },
         "auto_show_calib": {
           "v": false,
+          "ts": 1788397350.630754
+        },
+        "pivot_sensitivity": {
+          "v": "normal",
+          "ts": 0.0
+        },
+        "chart_font_size": {
+          "v": 11,
+          "ts": 0.0
+        },
+        "text_font_size": {
+          "v": 11,
+          "ts": 0.0
+        },
+        "kline_layers": {
+          "v": {},
+          "ts": 1788397350.630754
+        },
+        "watch_move_threshold": {
+          "v": 2.0,
+          "ts": 1788397350.630754
+        },
+        "theme": {
+          "v": "dark",
           "ts": 1788397350.630754
         }
       }
