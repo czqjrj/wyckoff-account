@@ -1,0 +1,11 @@
+{
+  "users": {
+    "ruanjun": {
+      "salt": "38a1ff64c7242be88c5b33d67b2a57b9",
+      "hash": "b46017aaa6265a94d84cc28f787c0598589a78b30c11947b2be9b2e7f4682998",
+      "display": "ruanjun",
+      "created_ts": 1788396706.0216827,
+      "repo_url": ""
+    }
+  }
+}
