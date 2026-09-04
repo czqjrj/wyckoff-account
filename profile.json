@@ -1,41 +1,109 @@
 {
   "schema": 1,
   "machine": "869eb0d30144401391f9beda39374bb2",
-  "exported_ts": 1788501612.5000703,
+  "exported_ts": 1788504467.9172556,
   "types": {
     "settings": {
       "items": {
-        "left_panel_visible": {
-          "v": true,
+        "auto_show_screener": {
+          "v": false,
           "ts": 1788397350.630754
         },
-        "right_width": {
-          "v": 560,
+        "scan_interval": {
+          "v": 3600,
           "ts": 0.0
         },
-        "watch_move_notify": {
+        "draw_waves": {
           "v": true,
+          "ts": 0.0
+        },
+        "sync_debounce": {
+          "v": 60,
+          "ts": 1788397350.630754
+        },
+        "auto_scan": {
+          "v": false,
+          "ts": 0.0
+        },
+        "kline_layers": {
+          "v": {},
           "ts": 1788397350.630754
         },
         "default_load": {
           "v": "600104",
           "ts": 0.0
         },
-        "pnf_box_mode": {
-          "v": "pct",
+        "font_family": {
+          "v": "Noto Sans CJK SC",
           "ts": 0.0
+        },
+        "right_width": {
+          "v": 560,
+          "ts": 0.0
+        },
+        "draw_locks": {
+          "v": true,
+          "ts": 0.0
+        },
+        "left_panel_visible": {
+          "v": true,
+          "ts": 1788397350.630754
+        },
+        "dock_state": {
+          "v": "AAAA/wAAAAH9AAAAAQAAAAEAAADwAAADHvwCAAAAAfwAAABQAAADHgAAAScBAAAb+gAAAAABAAAAAvsAAAASAGQAbwBjAGsAVwBhAHQAYwBoAQAAAAD/////AAAAdQD////7AAAAEgBkAG8AYwBrAFIAaQBnAGgAdAEAAAXWAAABqgAAAP4A////AAAFBAAAAx4AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=",
+          "ts": 1788500992.7195292
+        },
+        "auto_sync": {
+          "v": false,
+          "ts": 1788397350.630754
+        },
+        "right_panel_visible": {
+          "v": true,
+          "ts": 1788397350.630754
+        },
+        "theme": {
+          "v": "dark",
+          "ts": 1788397350.630754
+        },
+        "confirm_enabled": {
+          "v": true,
+          "ts": 0.0
+        },
+        "start_maximized": {
+          "v": true,
+          "ts": 0.0
+        },
+        "refresh_interval": {
+          "v": 30,
+          "ts": 0.0
+        },
+        "watch_font_size": {
+          "v": 12,
+          "ts": 1788397350.630754
         },
         "auto_show_entries": {
           "v": false,
           "ts": 1788397350.630754
         },
-        "chart_font_size": {
+        "pnf_box_mode": {
+          "v": "pct",
+          "ts": 0.0
+        },
+        "watch_move_threshold": {
+          "v": 2.0,
+          "ts": 1788397350.630754
+        },
+        "text_font_size": {
           "v": 11,
           "ts": 0.0
         },
-        "dock_state": {
-          "v": "AAAA/wAAAAH9AAAAAQAAAAEAAADwAAADHvwCAAAAAfwAAABQAAADHgAAAScBAAAb+gAAAAABAAAAAvsAAAASAGQAbwBjAGsAVwBhAHQAYwBoAQAAAAD/////AAAAdQD////7AAAAEgBkAG8AYwBrAFIAaQBnAGgAdAEAAAXWAAABqgAAAP4A////AAAFBAAAAx4AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=",
-          "ts": 1788500992.7195292
+        "ind_default_bars": {
+          "v": 250,
+          "ts": 1788397350.630754
+        },
+        "font_size": {
+          "v": 10,
+          "ts": 0.0
         },
         "panel_widths": {
           "v": {
@@ -43,121 +111,53 @@
           },
           "ts": 1788397350.630754
         },
-        "font_family": {
-          "v": "Noto Sans CJK SC",
+        "default_scale": {
+          "v": "日线",
+          "ts": 0.0
+        },
+        "pivot_sensitivity": {
+          "v": "normal",
           "ts": 0.0
         },
         "mkt_default_bars": {
           "v": 120,
           "ts": 1788397350.630754
         },
-        "theme": {
-          "v": "dark",
-          "ts": 1788397350.630754
+        "default_period": {
+          "v": "近3年",
+          "ts": 0.0
         },
-        "auto_sync": {
+        "auto_show_calib": {
           "v": false,
           "ts": 1788397350.630754
-        },
-        "kline_layers": {
-          "v": {},
-          "ts": 1788397350.630754
-        },
-        "default_scale": {
-          "v": "日线",
-          "ts": 0.0
-        },
-        "auto_refresh": {
-          "v": false,
-          "ts": 0.0
-        },
-        "ind_default_bars": {
-          "v": 250,
-          "ts": 1788397350.630754
-        },
-        "text_font_size": {
-          "v": 11,
-          "ts": 0.0
-        },
-        "draw_waves": {
-          "v": true,
-          "ts": 0.0
-        },
-        "scan_interval": {
-          "v": 3600,
-          "ts": 0.0
-        },
-        "draw_locks": {
-          "v": true,
-          "ts": 0.0
         },
         "watch_move_refresh": {
           "v": true,
-          "ts": 1788397350.630754
-        },
-        "pivot_sensitivity": {
-          "v": "normal",
-          "ts": 0.0
-        },
-        "refresh_interval": {
-          "v": 30,
-          "ts": 0.0
-        },
-        "watch_width": {
-          "v": 190,
-          "ts": 0.0
-        },
-        "auto_scan": {
-          "v": false,
-          "ts": 0.0
-        },
-        "right_panel_visible": {
-          "v": true,
-          "ts": 1788397350.630754
-        },
-        "watch_move_threshold": {
-          "v": 2.0,
           "ts": 1788397350.630754
         },
         "pnf_atr_factor": {
           "v": 0.5,
           "ts": 0.0
         },
-        "start_maximized": {
-          "v": true,
-          "ts": 0.0
-        },
-        "auto_show_screener": {
-          "v": false,
-          "ts": 1788397350.630754
-        },
-        "font_size": {
-          "v": 10,
-          "ts": 0.0
-        },
-        "watch_font_size": {
-          "v": 12,
-          "ts": 1788397350.630754
-        },
-        "auto_show_calib": {
-          "v": false,
-          "ts": 1788397350.630754
-        },
-        "confirm_enabled": {
-          "v": true,
+        "watch_width": {
+          "v": 190,
           "ts": 0.0
         },
         "startup_no_analysis": {
           "v": true,
           "ts": 1788397350.630754
         },
-        "sync_debounce": {
-          "v": 60,
-          "ts": 1788397350.630754
-        },
-        "default_period": {
-          "v": "近3年",
+        "auto_refresh": {
+          "v": false,
           "ts": 0.0
+        },
+        "chart_font_size": {
+          "v": 11,
+          "ts": 0.0
+        },
+        "watch_move_notify": {
+          "v": true,
+          "ts": 1788397350.630754
         }
       }
     },
@@ -167,13 +167,9 @@
           "v": "sz399006",
           "ts": 1788397350.678961
         },
-        "sh600104": {
-          "v": "sh600104",
-          "ts": 1788397350.678961
-        },
-        "sh688981": {
-          "v": "sh688981",
-          "ts": 1788397350.678961
+        "sh601311": {
+          "v": null,
+          "ts": 1788504467.469354
         },
         "sz300750": {
           "v": "sz300750",
@@ -183,16 +179,20 @@
           "v": "sh600108",
           "ts": 1788500992.772529
         },
+        "sz000001": {
+          "v": "sz000001",
+          "ts": 1788397350.678961
+        },
         "bj920056": {
           "v": "bj920056",
           "ts": 1788500992.772529
         },
-        "sh601311": {
-          "v": "sh601311",
-          "ts": 1788500992.772529
+        "sh600104": {
+          "v": "sh600104",
+          "ts": 1788397350.678961
         },
-        "sz000001": {
-          "v": "sz000001",
+        "sh688981": {
+          "v": "sh688981",
           "ts": 1788397350.678961
         }
       }
@@ -225,8 +225,8 @@
                 "sector": "塑料",
                 "strategy": "screener_value_accumulation",
                 "staged": false,
-                "last": 15.04,
-                "last_ret": -0.0306
+                "last": 14.99,
+                "last_ret": -0.0338
               },
               {
                 "symbol": "sh601311",
@@ -241,8 +241,8 @@
                 "sector": "电池",
                 "strategy": "paper_discipline_bull",
                 "staged": false,
-                "last": 7.71,
-                "last_ret": -0.0145
+                "last": 7.65,
+                "last_ret": -0.0221
               },
               {
                 "symbol": "sh600108",
@@ -598,7 +598,7 @@
             "next_scan_time": "2026-09-03T10:22:38.807382",
             "last_scan_result": "策略管理器扫描(纪律+价值吸筹)扫描: 扫描6000 码, 命中 7 个候选"
           },
-          "ts": 1788501612.4733493
+          "ts": 1788504437.2898805
         }
       }
     }
