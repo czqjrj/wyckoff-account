@@ -1,87 +1,15 @@
 {
   "schema": 1,
   "machine": "869eb0d30144401391f9beda39374bb2",
-  "exported_ts": 1788397522.197377,
+  "exported_ts": 1788501017.825733,
   "types": {
     "settings": {
       "items": {
-        "default_period": {
-          "v": "近3年",
-          "ts": 0.0
-        },
-        "watch_font_size": {
-          "v": 12,
-          "ts": 1788397350.630754
-        },
-        "watch_move_notify": {
-          "v": true,
-          "ts": 1788397350.630754
-        },
-        "watch_width": {
-          "v": 190,
-          "ts": 0.0
-        },
-        "ind_default_bars": {
-          "v": 250,
-          "ts": 1788397350.630754
-        },
-        "left_panel_visible": {
-          "v": true,
-          "ts": 1788397350.630754
-        },
-        "watch_move_refresh": {
-          "v": true,
-          "ts": 1788397350.630754
-        },
-        "right_panel_visible": {
-          "v": true,
-          "ts": 1788397350.630754
-        },
-        "default_load": {
-          "v": "600104",
-          "ts": 0.0
-        },
-        "auto_sync": {
-          "v": false,
-          "ts": 1788397350.630754
-        },
-        "draw_locks": {
-          "v": true,
-          "ts": 0.0
-        },
-        "mkt_default_bars": {
-          "v": 120,
-          "ts": 1788397350.630754
-        },
         "start_maximized": {
           "v": true,
           "ts": 0.0
         },
-        "auto_refresh": {
-          "v": false,
-          "ts": 0.0
-        },
-        "scan_interval": {
-          "v": 3600,
-          "ts": 0.0
-        },
-        "pnf_box_mode": {
-          "v": "pct",
-          "ts": 0.0
-        },
-        "font_size": {
-          "v": 10,
-          "ts": 0.0
-        },
-        "draw_waves": {
-          "v": true,
-          "ts": 0.0
-        },
-        "right_width": {
-          "v": 560,
-          "ts": 0.0
-        },
-        "startup_no_analysis": {
+        "right_panel_visible": {
           "v": true,
           "ts": 1788397350.630754
         },
@@ -89,19 +17,7 @@
           "v": false,
           "ts": 1788397350.630754
         },
-        "font_family": {
-          "v": "Noto Sans CJK SC",
-          "ts": 0.0
-        },
-        "auto_show_screener": {
-          "v": false,
-          "ts": 1788397350.630754
-        },
-        "auto_scan": {
-          "v": false,
-          "ts": 0.0
-        },
-        "confirm_enabled": {
+        "draw_locks": {
           "v": true,
           "ts": 0.0
         },
@@ -109,13 +25,121 @@
           "v": "日线",
           "ts": 0.0
         },
-        "refresh_interval": {
-          "v": 30,
+        "default_period": {
+          "v": "近3年",
+          "ts": 0.0
+        },
+        "kline_layers": {
+          "v": {},
+          "ts": 1788397350.630754
+        },
+        "draw_waves": {
+          "v": true,
+          "ts": 0.0
+        },
+        "pivot_sensitivity": {
+          "v": "normal",
           "ts": 0.0
         },
         "sync_debounce": {
           "v": 60,
           "ts": 1788397350.630754
+        },
+        "auto_show_calib": {
+          "v": false,
+          "ts": 1788397350.630754
+        },
+        "left_panel_visible": {
+          "v": true,
+          "ts": 1788397350.630754
+        },
+        "pnf_atr_factor": {
+          "v": 0.5,
+          "ts": 0.0
+        },
+        "startup_no_analysis": {
+          "v": true,
+          "ts": 1788397350.630754
+        },
+        "watch_move_notify": {
+          "v": true,
+          "ts": 1788397350.630754
+        },
+        "refresh_interval": {
+          "v": 30,
+          "ts": 0.0
+        },
+        "auto_scan": {
+          "v": false,
+          "ts": 0.0
+        },
+        "mkt_default_bars": {
+          "v": 120,
+          "ts": 1788397350.630754
+        },
+        "dock_state": {
+          "v": "AAAA/wAAAAH9AAAAAQAAAAEAAADwAAADHvwCAAAAAfwAAABQAAADHgAAAScBAAAb+gAAAAABAAAAAvsAAAASAGQAbwBjAGsAVwBhAHQAYwBoAQAAAAD/////AAAAdQD////7AAAAEgBkAG8AYwBrAFIAaQBnAGgAdAEAAAXWAAABqgAAAP4A////AAAFBAAAAx4AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=",
+          "ts": 1788500992.7195292
+        },
+        "pnf_box_mode": {
+          "v": "pct",
+          "ts": 0.0
+        },
+        "right_width": {
+          "v": 560,
+          "ts": 0.0
+        },
+        "watch_font_size": {
+          "v": 12,
+          "ts": 1788397350.630754
+        },
+        "auto_sync": {
+          "v": false,
+          "ts": 1788397350.630754
+        },
+        "ind_default_bars": {
+          "v": 250,
+          "ts": 1788397350.630754
+        },
+        "scan_interval": {
+          "v": 3600,
+          "ts": 0.0
+        },
+        "theme": {
+          "v": "dark",
+          "ts": 1788397350.630754
+        },
+        "watch_move_threshold": {
+          "v": 2.0,
+          "ts": 1788397350.630754
+        },
+        "watch_move_refresh": {
+          "v": true,
+          "ts": 1788397350.630754
+        },
+        "font_size": {
+          "v": 10,
+          "ts": 0.0
+        },
+        "text_font_size": {
+          "v": 11,
+          "ts": 0.0
+        },
+        "auto_show_screener": {
+          "v": false,
+          "ts": 1788397350.630754
+        },
+        "default_load": {
+          "v": "600104",
+          "ts": 0.0
+        },
+        "font_family": {
+          "v": "Noto Sans CJK SC",
+          "ts": 0.0
+        },
+        "watch_width": {
+          "v": 190,
+          "ts": 0.0
         },
         "panel_widths": {
           "v": {
@@ -123,49 +147,45 @@
           },
           "ts": 1788397350.630754
         },
-        "dock_state": {
-          "v": "AAAA/wAAAAH9AAAAAQAAAAEAAAD+AAADHvwCAAAAAfwAAABQAAADHgAAAScBAAAb+gAAAAABAAAAAvsAAAASAGQAbwBjAGsAVwBhAHQAYwBoAQAAAAD/////AAAAdQD////7AAAAEgBkAG8AYwBrAFIAaQBnAGgAdAEAAAXWAAABqgAAAP4A////AAAExAAAAx4AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=",
-          "ts": 1788397350.630754
-        },
-        "pnf_atr_factor": {
-          "v": 0.5,
-          "ts": 0.0
-        },
-        "auto_show_calib": {
-          "v": false,
-          "ts": 1788397350.630754
-        },
-        "pivot_sensitivity": {
-          "v": "normal",
+        "confirm_enabled": {
+          "v": true,
           "ts": 0.0
         },
         "chart_font_size": {
           "v": 11,
           "ts": 0.0
         },
-        "text_font_size": {
-          "v": 11,
+        "auto_refresh": {
+          "v": false,
           "ts": 0.0
-        },
-        "kline_layers": {
-          "v": {},
-          "ts": 1788397350.630754
-        },
-        "watch_move_threshold": {
-          "v": 2.0,
-          "ts": 1788397350.630754
-        },
-        "theme": {
-          "v": "dark",
-          "ts": 1788397350.630754
         }
       }
     },
     "watchlist": {
       "items": {
+        "bj920056": {
+          "v": "bj920056",
+          "ts": 1788500992.772529
+        },
+        "sh688981": {
+          "v": "sh688981",
+          "ts": 1788397350.678961
+        },
         "sh600104": {
           "v": "sh600104",
           "ts": 1788397350.678961
+        },
+        "sh601311": {
+          "v": "sh601311",
+          "ts": 1788500992.772529
+        },
+        "sz399006": {
+          "v": "sz399006",
+          "ts": 1788397350.678961
+        },
+        "sh600108": {
+          "v": "sh600108",
+          "ts": 1788500992.772529
         },
         "sz000001": {
           "v": "sz000001",
@@ -173,14 +193,6 @@
         },
         "sz300750": {
           "v": "sz300750",
-          "ts": 1788397350.678961
-        },
-        "sh688981": {
-          "v": "sh688981",
-          "ts": 1788397350.678961
-        },
-        "sz399006": {
-          "v": "sz399006",
           "ts": 1788397350.678961
         }
       }
@@ -198,7 +210,7 @@
       "items": {
         "paper": {
           "v": {
-            "cash": 666571.6,
+            "cash": 177653.70996,
             "positions": [
               {
                 "symbol": "bj920056",
@@ -209,12 +221,44 @@
                 "buy_px": 15.375,
                 "cost": 1328.4,
                 "entry_ts": "2026-09-03 08:11:27",
-                "entry_bars": 1,
+                "entry_bars": 4,
                 "sector": "塑料",
                 "strategy": "screener_value_accumulation",
                 "staged": false,
-                "last": 15.36,
-                "last_ret": -0.0099
+                "last": 15.17,
+                "last_ret": -0.0222
+              },
+              {
+                "symbol": "sh601311",
+                "name": "骆驼股份",
+                "type": "Spring",
+                "conf": 93,
+                "qty": 32400,
+                "buy_px": 7.753,
+                "cost": 1004.83,
+                "entry_ts": "2026-09-03 09:52:38",
+                "entry_bars": 3,
+                "sector": "电池",
+                "strategy": "paper_discipline_bull",
+                "staged": false,
+                "last": 7.72,
+                "last_ret": -0.0132
+              },
+              {
+                "symbol": "sh600108",
+                "name": "亚盛集团",
+                "type": "Shakeout",
+                "conf": 90,
+                "qty": 63200,
+                "buy_px": 3.73,
+                "cost": 943.06,
+                "entry_ts": "2026-09-03 09:52:38",
+                "entry_bars": 3,
+                "sector": "种植业",
+                "strategy": "screener_value_accumulation",
+                "staged": false,
+                "last": 4.36,
+                "last_ret": 0.1584
               }
             ],
             "orders": [
@@ -231,25 +275,63 @@
                 "bars": 0,
                 "sector": "塑料",
                 "strategy": "screener_value_accumulation"
+              },
+              {
+                "symbol": "sh601311",
+                "name": "骆驼股份",
+                "type": "Spring",
+                "conf": 93,
+                "qty": 28600,
+                "price": 7.758,
+                "side": "buy",
+                "ts": "2026-09-03 09:52:38",
+                "date": "",
+                "bars": 0,
+                "sector": "电池",
+                "strategy": "paper_discipline_bull"
+              },
+              {
+                "symbol": "sh600108",
+                "name": "亚盛集团",
+                "type": "Shakeout",
+                "conf": 90,
+                "qty": 41000,
+                "price": 3.604,
+                "side": "buy",
+                "ts": "2026-09-03 09:52:38",
+                "date": "",
+                "bars": 0,
+                "sector": "种植业",
+                "strategy": "screener_value_accumulation"
+              },
+              {
+                "ts": "2026-09-03 15:51:52",
+                "symbol": "sh601311",
+                "name": "骆驼股份",
+                "strategy": "paper_discipline_bull",
+                "qty": 3800,
+                "price": 7.718,
+                "type": "再平衡加仓",
+                "conf": 93,
+                "side": "buy",
+                "date": ""
+              },
+              {
+                "ts": "2026-09-03 15:51:52",
+                "symbol": "sh600108",
+                "name": "亚盛集团",
+                "strategy": "screener_value_accumulation",
+                "qty": 22200,
+                "price": 3.964,
+                "type": "再平衡加仓",
+                "conf": 90,
+                "side": "buy",
+                "date": ""
               }
             ],
             "closed": [],
             "equity_hist": [],
-            "candidates": [
-              {
-                "type": "SC",
-                "idx": 247,
-                "conf": 90,
-                "code": "bj920056",
-                "name": "能之光",
-                "last": 15.36,
-                "strategy": "screener_value_accumulation",
-                "sector": "塑料",
-                "base_conf": 61,
-                "chain_adj": 0,
-                "auto_cond_price": 15.391
-              }
-            ],
+            "candidates": [],
             "pending": [],
             "conditions": [
               {
@@ -263,8 +345,245 @@
                 "qty": 0,
                 "amount": null,
                 "reason": "自动:screener_value_accumulation:SC(90)",
-                "status": "active",
+                "status": "done",
                 "created_ts": "2026-09-03 08:11:04",
+                "matched_ts": "",
+                "matched_price": null,
+                "peak": null,
+                "correct": null,
+                "note": "已买入, 入场条件单消费"
+              },
+              {
+                "cid": "cond-1788400358810382",
+                "kind": "buy_price",
+                "symbol": "sh601311",
+                "name": "骆驼股份",
+                "price": 7.766,
+                "pct": null,
+                "trigger": "above",
+                "qty": 0,
+                "amount": null,
+                "reason": "自动:paper_discipline_bull:Spring(93)",
+                "status": "done",
+                "created_ts": "2026-09-03 09:52:38",
+                "matched_ts": "",
+                "matched_price": null,
+                "peak": null,
+                "correct": null,
+                "note": "已买入, 入场条件单消费"
+              },
+              {
+                "cid": "cond-1788400358810382",
+                "kind": "buy_price",
+                "symbol": "sh600108",
+                "name": "亚盛集团",
+                "price": 3.607,
+                "pct": null,
+                "trigger": "above",
+                "qty": 0,
+                "amount": null,
+                "reason": "自动:screener_value_accumulation:Shakeout(90)",
+                "status": "done",
+                "created_ts": "2026-09-03 09:52:38",
+                "matched_ts": "",
+                "matched_price": null,
+                "peak": null,
+                "correct": null,
+                "note": "已买入, 入场条件单消费"
+              },
+              {
+                "cid": "cond-1788400358810382",
+                "kind": "buy_price",
+                "symbol": "sh600397",
+                "name": "江钨装备",
+                "price": 18.367,
+                "pct": null,
+                "trigger": "above",
+                "qty": 0,
+                "amount": null,
+                "reason": "自动:screener_value_accumulation:LPS(90)",
+                "status": "active",
+                "created_ts": "2026-09-03 09:52:38",
+                "matched_ts": "",
+                "matched_price": null,
+                "peak": null,
+                "correct": null
+              },
+              {
+                "cid": "cond-1788400358810382",
+                "kind": "buy_price",
+                "symbol": "sz000582",
+                "name": "北部湾港",
+                "price": 11.423,
+                "pct": null,
+                "trigger": "above",
+                "qty": 0,
+                "amount": null,
+                "reason": "自动:screener_value_accumulation:Spring(90)",
+                "status": "active",
+                "created_ts": "2026-09-03 09:52:38",
+                "matched_ts": "",
+                "matched_price": null,
+                "peak": null,
+                "correct": null
+              },
+              {
+                "cid": "cond-1788400358810382",
+                "kind": "buy_price",
+                "symbol": "sz000659",
+                "name": "珠海中富",
+                "price": 2.966,
+                "pct": null,
+                "trigger": "above",
+                "qty": 0,
+                "amount": null,
+                "reason": "自动:screener_value_accumulation:ST(90)",
+                "status": "active",
+                "created_ts": "2026-09-03 09:52:38",
+                "matched_ts": "",
+                "matched_price": null,
+                "peak": null,
+                "correct": null
+              },
+              {
+                "cid": "cond-1788400358810382",
+                "kind": "buy_price",
+                "symbol": "sz002058",
+                "name": "紫竹高科",
+                "price": 16.703,
+                "pct": null,
+                "trigger": "above",
+                "qty": 0,
+                "amount": null,
+                "reason": "自动:screener_value_accumulation:ST(90)",
+                "status": "active",
+                "created_ts": "2026-09-03 09:52:38",
+                "matched_ts": "",
+                "matched_price": null,
+                "peak": null,
+                "correct": null
+              },
+              {
+                "cid": "cond-1788400358810382",
+                "kind": "buy_price",
+                "symbol": "sz002454",
+                "name": "松芝股份",
+                "price": 5.2,
+                "pct": null,
+                "trigger": "above",
+                "qty": 0,
+                "amount": null,
+                "reason": "自动:screener_value_accumulation:Shakeout(90)",
+                "status": "active",
+                "created_ts": "2026-09-03 09:52:38",
+                "matched_ts": "",
+                "matched_price": null,
+                "peak": null,
+                "correct": null
+              },
+              {
+                "cid": "cond-1788421912180866",
+                "kind": "take_profit",
+                "symbol": "bj920056",
+                "name": "能之光",
+                "price": null,
+                "pct": 0.15,
+                "trigger": "above",
+                "qty": 0,
+                "amount": null,
+                "reason": "持仓保护:take_profit",
+                "status": "active",
+                "created_ts": "2026-09-03 15:51:52",
+                "matched_ts": "",
+                "matched_price": null,
+                "peak": null,
+                "correct": null
+              },
+              {
+                "cid": "cond-1788421912180866",
+                "kind": "stop_loss",
+                "symbol": "bj920056",
+                "name": "能之光",
+                "price": null,
+                "pct": 0.03,
+                "trigger": "above",
+                "qty": 0,
+                "amount": null,
+                "reason": "持仓保护:stop_loss",
+                "status": "active",
+                "created_ts": "2026-09-03 15:51:52",
+                "matched_ts": "",
+                "matched_price": null,
+                "peak": null,
+                "correct": null
+              },
+              {
+                "cid": "cond-1788421912180866",
+                "kind": "take_profit",
+                "symbol": "sh601311",
+                "name": "骆驼股份",
+                "price": null,
+                "pct": 0.15,
+                "trigger": "above",
+                "qty": 0,
+                "amount": null,
+                "reason": "持仓保护:take_profit",
+                "status": "active",
+                "created_ts": "2026-09-03 15:51:52",
+                "matched_ts": "",
+                "matched_price": null,
+                "peak": null,
+                "correct": null
+              },
+              {
+                "cid": "cond-1788421912180866",
+                "kind": "stop_loss",
+                "symbol": "sh601311",
+                "name": "骆驼股份",
+                "price": null,
+                "pct": 0.03,
+                "trigger": "above",
+                "qty": 0,
+                "amount": null,
+                "reason": "持仓保护:stop_loss",
+                "status": "active",
+                "created_ts": "2026-09-03 15:51:52",
+                "matched_ts": "",
+                "matched_price": null,
+                "peak": null,
+                "correct": null
+              },
+              {
+                "cid": "cond-1788421912180866",
+                "kind": "take_profit",
+                "symbol": "sh600108",
+                "name": "亚盛集团",
+                "price": null,
+                "pct": 0.15,
+                "trigger": "above",
+                "qty": 0,
+                "amount": null,
+                "reason": "持仓保护:take_profit",
+                "status": "active",
+                "created_ts": "2026-09-03 15:51:52",
+                "matched_ts": "",
+                "matched_price": null,
+                "peak": null,
+                "correct": null
+              },
+              {
+                "cid": "cond-1788421912180866",
+                "kind": "stop_loss",
+                "symbol": "sh600108",
+                "name": "亚盛集团",
+                "price": null,
+                "pct": 0.03,
+                "trigger": "above",
+                "qty": 0,
+                "amount": null,
+                "reason": "持仓保护:stop_loss",
+                "status": "active",
+                "created_ts": "2026-09-03 15:51:52",
                 "matched_ts": "",
                 "matched_price": null,
                 "peak": null,
@@ -274,12 +593,12 @@
             "advanced_orders": [],
             "risk_metrics": {},
             "meta": {},
-            "scan_count": 1,
-            "last_scan_time": "2026-09-03T08:10:47.140649",
-            "next_scan_time": "2026-09-03T08:41:04.609236",
-            "last_scan_result": "策略管理器扫描(纪律+价值吸筹)扫描: 扫描60 码, 命中 1 个候选"
+            "scan_count": 2,
+            "last_scan_time": "2026-09-03T09:35:20.004640",
+            "next_scan_time": "2026-09-03T10:22:38.807382",
+            "last_scan_result": "策略管理器扫描(纪律+价值吸筹)扫描: 扫描6000 码, 命中 7 个候选"
           },
-          "ts": 1788397350.8608675
+          "ts": 1788500992.9190521
         }
       }
     }
